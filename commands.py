@@ -6,7 +6,6 @@ from typing import List
 # Information and Help Commands
 # ─────────────────────────────────────────────────────────────
 help: List[str] = ["help", "usage", "помощь", "راهنما"]
-info: List[str] = ["info", "детали", "مشخصات"]
 bot: List[str] = ["bot", "ping", "бот", "пинг", "ربات", "پینگ"]
 
 # Moderation Commands
